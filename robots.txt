@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uishooyaiw.mgiant.cn/sitemap.xml
